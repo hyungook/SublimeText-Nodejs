@@ -1,4 +1,4 @@
-Nodejs Sublime Text 2 Package
+Nodejs Sublime Text 2 Package [xxx]
 =============================
 
 Overview
